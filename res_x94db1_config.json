@@ -1,0 +1,18 @@
+{
+  "notifications": [
+    {
+      "title": "🔥 New Update!",
+      "message": "SnapX now supports faster downloads.",
+      "link": "https://your-landing-page.com"
+    },
+    {
+      "title": "📣 Follow us on X!",
+      "message": "Get daily updates and feature drops.",
+      "link": "https://x.com/snapx_official"
+    },
+    {
+      "title": "💡 Tips",
+      "message": "Copy any reel/post link and SnapX will auto-detect it."
+    }
+  ]
+}
