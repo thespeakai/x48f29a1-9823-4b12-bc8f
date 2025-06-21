@@ -1,27 +1,36 @@
-[
-  {
-    "name": "YouTube Downloader",
-    "icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
-    "url": "https://ssyoutube.com/en800oX/"
-  },
-  {
-    "name": "Gram Fetch",
-    "icon": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
-    "url": "https://sssinstagram.com/"
-  },
-  {
-    "name": "Thread Grabber",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Threads_%28app%29_logo.svg/1024px-Threads_%28app%29_logo.svg.png",
-    "url": "https://threadsdownloader.com/"
-  },
-  {
-    "name": "XPress Pull",
-    "icon": "https://cdn-icons-png.flaticon.com/512/733/733579.png",
-    "url": "https://ssstwitter.com/"
-  },
-  {
-    "name": "XgddhjffPress Pull",
-    "icon": "https://cdndhnd-icons-png.flaticon.com/512/733/733579.png",
-    "url": "https://sssgtwitter.com/"
+{
+  "tools": {
+    "youtube": [
+      "https://ssyoutube.com/en800oX/",
+      "https://yt1s.com",
+      "https://yt5s.io",
+      "https://ytload.com",
+      "https://www.y2mate.com",
+      "https://savefrom.net",
+      "https://snaptik.ltd/en/youtube-downloader",
+      "https://10downloader.com",
+      "https://loader.to/en/youtube-video-downloader.html"
+    ],
+    "instagram": [
+      "https://sssinstagram.com",
+      "https://instasave.io",
+      "https://igram.io",
+      "https://downloadgram.org",
+      "https://snapinsta.app",
+      "https://instadownloader.org",
+      "https://www.save-insta.com/",
+      "https://instaloader.org"
+    ],
+    "x": [
+      "https://ssstwitter.com",
+      "https://twdown.net",
+      "https://twittervideodownloader.com",
+      "https://xdownloader.app",
+      "https://twdownloader.net",
+      "https://savetik.cc/twitter-downloader",
+      "https://twitsave.com",
+      "https://getmytweet.com"
+    ]
   }
-]
+}
+
