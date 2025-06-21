@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Join Telegram",
+    "subtitle": "Get instant updates and support.",
+    "icon": "telegram",
+    "url": "https://t.me/snapxcommunity"
+  },
+  {
+    "title": "Join WhatsApp",
+    "subtitle": "Quick support and latest news.",
+    "icon": "whatsapp",
+    "url": "https://chat.whatsapp.com/your-group-link"
+  },
+  {
+    "title": "Join Reddit",
+    "subtitle": "Discuss features and report bugs.",
+    "icon": "reddit",
+    "url": "https://reddit.com/r/snapxapp"
+  },
+  {
+    "title": "Join Discord",
+    "subtitle": "Real-time chat and feedback.",
+    "icon": "discord",
+    "url": ""
+  },
+  {
+    "title": "Follow on Threads",
+    "subtitle": "Latest news and posts.",
+    "icon": "threads",
+    "url": ""
+  },
+  {
+    "title": "Follow on X",
+    "subtitle": "Official announcements and more.",
+    "icon": "x",
+    "url": ""
+  }
+]
